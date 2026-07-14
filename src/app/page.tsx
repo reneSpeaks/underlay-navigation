@@ -1,1 +1,1 @@
-export { default } from "@/domains/public/home/HomePage";
+export { default } from "@/domains/public/ui/NotImplemented";
